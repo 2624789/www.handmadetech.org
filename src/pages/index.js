@@ -1,9 +1,13 @@
 import React from "react"
 
+import Container from "../components/container"
+
+import logo from "../../static/logo.png"
+
 export default function Home() {
   return (
-    <div>
-      <h1>HANDMADETECH</h1>
+    <Container>
+      <img src={logo} height="90" alt="Logo" />
 
       <p>Software bien diseñado, confiable y de calidad.</p>
 
@@ -45,6 +49,6 @@ export default function Home() {
       <p>info@handmadetech.org</p>
 
       <p><strong>*BTC-friendly</strong></p>
-    </div>
+    </Container>
   );
 }
