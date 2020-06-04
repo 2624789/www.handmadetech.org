@@ -3,3 +3,9 @@ html {
   color: black;
   font-size: 18px;
 }
+
+.hmt-centered-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

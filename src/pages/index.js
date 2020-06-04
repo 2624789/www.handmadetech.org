@@ -7,7 +7,7 @@ import logo from "../../static/logo.png"
 export default function Home() {
   return (
     <Container>
-      <img src={logo} height="90" alt="Logo" />
+      <img src={logo} className="hmt-centered-image" height="90" alt="Logo" />
 
       <p>Software bien diseñado, confiable y de calidad.</p>
 
