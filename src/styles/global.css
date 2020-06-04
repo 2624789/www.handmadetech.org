@@ -1,7 +1,11 @@
 html {
   background-color: ghostwhite;
-  color: black;
+  color: #1A1919;
   font-size: 18px;
+}
+
+body {
+  margin: 0;
 }
 
 .hmt-centered-image {
