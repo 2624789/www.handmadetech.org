@@ -10,6 +10,8 @@ export default function Home() {
     <div>
       <TopBar logo={logo} />
       <Container>
+        <h1 className="hmt-centered-text">Handmadetech</h1>
+
         <p>Software bien diseñado, confiable y de calidad.</p>
 
         <p>Well-crafted, trustworthy and quality software.</p>
@@ -22,7 +24,7 @@ export default function Home() {
         </p>
 
         <p>
-          Principios y metodologías que se han demostrado adecuadas sobre
+          Aplicamos principios y metodologías que se han demostrado adecuadas sobre
           la base de la experiencia previa.
         </p>
 

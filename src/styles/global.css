@@ -10,6 +10,9 @@ body {
 
 .hmt-centered-image {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
+}
+
+.hmt-centered-text {
+  text-align: center;
 }
